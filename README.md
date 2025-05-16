@@ -2,7 +2,7 @@
 The Unified Kill Chain is a framework which establishes the phases of an attack, and a means of identifying and mitigating risk to IT assets.
 # Unified Kill Chain
 
-![Unified Kill Chain Diagram](path/to/your/image.png)
+![Unified Kill Chain Diagram](diagrammkill.jpeg)
 
 ## 🧩 What is the Unified Kill Chain?
 
